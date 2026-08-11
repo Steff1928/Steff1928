@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Stephen, I've recently graduated with a degree in Software Engineering and am currently looking for a job in IT. I primarily specialise in UX/UI design and front-end development but also enjoy working with full-stack/back-end technologies.
 
 <!--
 **Steff1928/Steff1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤔 I’m looking for help with expanding my knowledge in back-end/full-stack development
+- 📫 How to reach me: [www.linkedin.com/in/stephenmprosser](url)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I play Lawn Bowls
+
